@@ -1,3 +1,23 @@
+# Pycharm
+.idea
+
+# Custom options for latex:
+reports_build
+reports/latex/**/*.aux
+reports/latex/**/*.bbl
+reports/latex/**/*.bib
+reports/latex/**/*.blg
+reports/latex/**/*.dvi
+reports/latex/**/*.lof
+reports/latex/**/*.log
+reports/latex/**/*.lot
+reports/latex/**/*.out
+reports/latex/**/*.pdf
+reports/latex/**/*.ps
+reports/latex/**/*.run.xml
+reports/latex/**/*.tmp
+reports/latex/**/*.toc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
